@@ -3,7 +3,7 @@ import { Card } from "@/components/ui/card";
 import Navigation from "@/components/Navigation";
 import ProjectCard from "@/components/ProjectCard";
 import SkillCard from "@/components/SkillCard";
-import heroBg from "@/assets/pexels-felix-mittermeier-956999.jpg";
+import heroBg from "@/assets/background.jpg";
 import profilePhoto from "@/assets/profile.png";
 import {
   Code2,
